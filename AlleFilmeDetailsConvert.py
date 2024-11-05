@@ -60,7 +60,7 @@
             out_file.write(html_content)
 
     # Benutzereingaben
-    folder = 'C:\\Users\\Herbert\\Documents\\'
+    folder = 'path\\'
     input_file  = folder + 'AlleFilmeDetails.txt'  # Der Name der Eingabedatei
     output_file = folder + 'AlleFilmeDetails.html' # Der Name der Ausgabedatei
 
