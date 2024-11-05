@@ -47,7 +47,6 @@
             html_content += f'    <a href="{imdb}" target="_blank">{title}</a> ({year})\n'
             html_content += f'  </h2>\n'
             html_content += f'  <p>'
-            #html_content += f'    - <a href="file:////ARIEL/Filme/{folder}/{iso}">Start</a>'
             html_content += f'  </p>\n'
             html_content += f'  <p><strong>{cat}</strong> ({mins} Min.)</p>\n'
             html_content += f'  <p><em>Mit {act}</em></p>\n'
