@@ -8,16 +8,16 @@
             # Einträge durch doppelte Zeilenumbrüche trennen
             entries = content.split('\n\n')
 
-        # Sortieren, aber führendes "[" ignorieren
+        # Sort, but ignore a leading "[" character.
         entries = sorted(
             entries,
-            key=lambda x: x[1:] if x[0].startswith("[") else x)
+            key=lambda x: x[1:] if x.startswith("[") else x)
 
         # HTML-Dokument erstellen
         html_content = '<html>\n<head>\n<title>Filme</title>\n</head>\n<body>\n'
         html_content += '<h1>Filme</h1>\n'
 
-        count = 0
+        num_movies = 0
         for entry in entries:
             lines = entry.split('\n')
             if len(lines) != 8:
@@ -25,14 +25,15 @@
                 print("\n".join(lines))
                 continue  # Falls nicht genug Informationen vorhanden sind
 
-            title = lines[0].strip() 
-            iso   = lines[1].strip() 
-            imdb  = lines[2].strip() 
-            year  = lines[3].strip() 
-            mins  = lines[4].strip() 
-            cat   = lines[5].strip() 
-            act   = lines[6].strip() 
-            desc  = lines[7].strip() 
+            num_movies += 1
+            title = lines[0].strip() #
+            iso   = lines[1].strip() #
+            imdb  = lines[2].strip() #
+            year  = lines[3].strip() #
+            mins  = lines[4].strip() #
+            cat   = lines[5].strip() #
+            act   = lines[6].strip() #
+            desc  = lines[7].strip() #
 
             for letter in iso:
                 if letter not in ".-":
@@ -47,13 +48,16 @@
             html_content += f'    <a href="{imdb}" target="_blank">{title}</a> ({year})\n'
             html_content += f'  </h2>\n'
             html_content += f'  <p>'
+            #html_content += f'    - <a href="file:////ARIEL/Filme/{folder}/{iso}">Start</a>'
             html_content += f'  </p>\n'
             html_content += f'  <p><strong>{cat}</strong> ({mins} Min.)</p>\n'
             html_content += f'  <p><em>Mit {act}</em></p>\n'
             html_content += f'  <p>{desc}</p>\n'
             html_content +=  '</div>\n'
 
-        html_content += '</body>\n</html>'
+        html_content +=  '<hr>\n'
+        html_content += f'<p>Total {num_movies} Filme.</p>\n'
+        html_content +=  '</body>\n</html>'
 
         # HTML in eine Datei schreiben
         with open(output_file, 'w', encoding='utf-8') as out_file:
@@ -66,4 +70,4 @@
 
     # Umwandeln der Datei
     convert_to_html(input_file, output_file)
-    #return
+    return
