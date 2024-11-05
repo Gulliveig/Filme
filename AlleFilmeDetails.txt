@@ -125,7 +125,7 @@ Cameron Diaz, Drew Barrymore, Lucy Liu
 Drei private Ermittlerinnen, die für den mysteriösen Charlie arbeiten, werden auf eine geheime Mission geschickt, um einen entführten Softwareentwickler zu retten. Mit einer Kombination aus Kampfkünsten, High-Tech-Gadgets und Verkleidungen nehmen sie es mit einem gefährlichen Gegner auf. Die Engel kämpfen nicht nur gegen das Verbrechen, sondern müssen auch ihr eigenes Leben und ihre Loyalität schützen. Der Film ist eine humorvolle und actionreiche Neuinterpretation der bekannten TV-Serie.  
 
 3 Haselnüsse für Aschenbrödel  
-\\ARIEL\Filme\3\3 Engel für Charlie.iso
+\\ARIEL\Filme\3\3 Haselnüsse für Aschenbrödel.iso
 https://www.imdb.com/title/tt0070832/  
 1973  
 82  
@@ -512,8 +512,8 @@ Sam Worthington, Zoe Saldana, Sigourney Weaver
 Jake Sully, ein querschnittsgelähmter Ex-Marine, wird auf den Planeten Pandora geschickt, wo er in die Rolle eines Avatars schlüpft, um die indigene Bevölkerung auszuspionieren. Doch er verliebt sich in die Kultur und die Natur von Pandora und stellt sich schließlich gegen seine eigene Spezies. Der Film setzt sich mit Themen wie Umweltschutz, Kolonialismus und Identität auseinander. Visuell beeindruckend, gilt „Avatar“ als revolutionärer Film in der Nutzung von CGI und 3D-Technologie.
 
 [Avatar] 2 - The Way of Water  
-Avatar 2 - The Way of Water (Avatar).iso  
 \\ARIEL\Mehrteiler\Avatar\Avatar 2 - The Way of Water.iso 
+https://www.imdb.com/title/tt1630029/
 2022  
 192  
 Science-Fiction, Abenteuer, Action  
@@ -1025,7 +1025,7 @@ Dwayne Johnson, Kevin Hart, Amy Ryan
 Ein ehemaliger Klassenkamerad, der jetzt ein CIA-Agent ist, holt seinen ehemaligen Freund, einen Buchhalter, zur Hilfe, um eine internationale Verschwörung aufzudecken. Während die beiden ungleiche Partner werden, mischen sich Action und Komödie auf unterhaltsame Weise. Der Film spielt mit den Klischees von Actionfilmen und bietet zugleich humorvolle Einlagen und spannende Verfolgungsjagden. "Central Intelligence" ist ein kurzweiliges Abenteuer über Freundschaft und Mut.
 
 Charade  
-\\ARIEL\Filme\C\Central Intelligence.iso 
+\\ARIEL\Filme\C\Charade.iso 
 https://www.imdb.com/title/tt0056923/  
 1963  
 113  
@@ -2132,7 +2132,7 @@ Clint Eastwood, Patrick McGoohan, Roberts Blossom
 "Flucht aus Alcatraz" basiert auf der wahren Geschichte eines der bekanntesten Ausbrüche aus dem berüchtigten Gefängnis. Clint Eastwood spielt Frank Morris, einen Gefangenen, der einen detaillierten Fluchtplan ausarbeitet. Der Film thematisiert den menschlichen Überlebenswillen und den unbändigen Drang nach Freiheit. Mit spannenden Momenten und einer fesselnden Darstellung bleibt er ein Klassiker im Gefängnisdrama.
 
 [Planet der Affen] 3 - Flucht vom Planet der Affen  
-\\ARIEL\Mehrteiler\Planet der Affen\3 - Flucht vom Planet der Affen.is
+\\ARIEL\Mehrteiler\Planet der Affen\3 - Flucht vom Planet der Affen.iso
 https://www.imdb.com/title/tt0067065/  
 1971  
 98  
@@ -2563,7 +2563,7 @@ Drama, Romanze, Klassiker
 Leonardo DiCaprio, Carey Mulligan, Joel Edgerton  
 "Der große Gatsby" basiert auf dem gleichnamigen Roman von F. Scott Fitzgerald und spielt in den Roaring Twenties. Der Film folgt dem mysteriösen Millionär Jay Gatsby, der in der Hoffnung, seine verlorene Liebe Daisy zurückzugewinnen, extravagant lebt. Die Geschichte untersucht Themen wie Liebe, Verlust und den amerikanischen Traum in einer glamourösen, aber vergänglichen Welt. Mit einer herausragenden Besetzung und atemberaubenden Bildern ist "Der große Gatsby" ein visuell beeindruckendes Drama.
 
-Droße Rennen rund um die Welt, das  
+Große Rennen rund um die Welt, das  
 \\ARIEL\Filme\G\Grosse Rennen Rund um die Welt, Das.iso
 https://www.imdb.com/title/tt0059243/  
 1965  
@@ -3056,7 +3056,7 @@ https://www.imdb.com/title/tt0119348/
 97  
 Drama, Thriller  
 Daniel Craig
-In Im Eishaus spielt Daniel Craig den jungen Mann Paul, der in einem abgeschiedenen Haus am Meer lebt und in eine mysteriöse und gefährliche Situation verwickelt wird. Nachdem er auf ein unbekanntes Mädchen trifft, das vor einem brutalen Verbrecher flieht, sieht er sich gezwungen, ihr zu helfen und sich gegen die Bedrohung zu stellen. Die Situation eskaliert, als Pauls Leben und die der Frauen, die er beschützen möchte, auf dem Spiel stehen.  
+In "Im Eishaus" spielt Daniel Craig den jungen Mann Paul, der in einem abgeschiedenen Haus am Meer lebt und in eine mysteriöse und gefährliche Situation verwickelt wird. Nachdem er auf ein unbekanntes Mädchen trifft, das vor einem brutalen Verbrecher flieht, sieht er sich gezwungen, ihr zu helfen und sich gegen die Bedrohung zu stellen. Die Situation eskaliert, als Pauls Leben und die der Frauen, die er beschützen möchte, auf dem Spiel stehen.  
 
 [James Bond] 1969 - Im Geheimdienst Ihrer Majestät (Lazenby)  
 \\ARIEL\Mehrteiler\James Bond\1969 - Im Geheimdienst Ihrer Majestät (Lazenby).iso
@@ -3200,7 +3200,7 @@ https://www.imdb.com/title/tt0097576/
 127  
 Action, Abenteuer, Fantasy  
 Harrison Ford, Sean Connery, Alison Doody  
-In diesem Abenteuer begibt sich Indiana Jones auf die Suche nach dem Heiligen Gral. Unterstützt von seinem Vater, einem Graal-Experten, muss er sich gegen rivalisierende Gruppen behaupten. Die Reise führt sie durch Europa und in gefährliche Situationen. Der Film bietet eine gelungene Mischung aus Humor, Action und emotionalen Momenten.  
+In diesem Abenteuer begibt sich Indiana Jones auf die Suche nach dem Heiligen Gral. Unterstützt von seinem Vater, einem Gral-Experten, muss er sich gegen rivalisierende Gruppen behaupten. Die Reise führt sie durch Europa und in gefährliche Situationen. Der Film bietet eine gelungene Mischung aus Humor, Action und emotionalen Momenten.  
 
 [Robert Langdon] 2016 - Inferno  
 \\ARIEL\Mehrteiler\Robert Langdon\2016 - Inferno.iso
@@ -3284,7 +3284,7 @@ Robert Downey Jr., Don Cheadle, Scarlett Johansson
 Tony Stark steht unter Druck, seine Technologie mit der Regierung zu teilen, während er gegen einen neuen Feind, den Whiplash, kämpft. Gleichzeitig muss er sich mit seiner eigenen Sterblichkeit und der Entwicklung neuer Anzüge auseinandersetzen. Der Film bietet explosive Action und eine tiefere Charakterentwicklung. Die Dynamik zwischen Stark und seinen Verbündeten wird auf die Probe gestellt.  
 
 [Iron Man] Iron Man 3
-\\ARIEL\Mehrteiler\Iron Man\Iron Man 1.iso
+\\ARIEL\Mehrteiler\Iron Man\Iron Man 3.iso
 https://www.imdb.com/title/tt1300854/  
 2013  
 130  
@@ -3343,7 +3343,7 @@ https://www.imdb.com/title/tt0175790/
 1999  
 82  
 Drama, Musical, Familie  
-Donny Osmond, Marie Osmond, Paul Nicholas  
+Donny Osmond, Richard Attenborough, Ian McNeice, Joan Collins, Robert Torti  
 Dieses Musical basiert auf der biblischen Geschichte von Joseph und seinem bunten Kleid. Es erzählt von Neid, Verrat und letztendlich Vergebung, während Joseph von seinen Brüdern verkauft wird und in Ägypten eine bedeutende Rolle spielt. Die Musik und die Darbietungen bringen die biblischen Themen auf unterhaltsame Weise zum Leben. Es ist ein inspirierendes Werk, das den Glauben an die Familie und an die Hoffnung feiert.  
 
 Journalistin, die  
@@ -3365,7 +3365,7 @@ Meryl Streep, Amy Adams, Stanley Tucci
 Der Film erzählt die Geschichten von Julia Child, einer berühmten Kochbuchautorin, und Julie Powell, einer modernen Bloggerin, die beschließt, alle Rezepte aus Childs Buch nachzukochen. Die beiden Geschichten verlaufen parallel und zeigen, wie das Kochen eine transformative Wirkung auf ihr Leben hat. Meryl Streep brilliert in ihrer Rolle als Julia Child, was dem Film einen besonderen Charme verleiht. "Julie & Julia" ist eine Hommage an die Liebe zur Küche und zur Selbstverwirklichung.  
 
 Julius Caesar  
-\\ARIEL\Filme\J\Julie & Julia.iso 
+\\ARIEL\Filme\J\Julius Caesar.iso 
 https://www.imdb.com/title/tt0045943/  
 1953  
 120  
@@ -4445,7 +4445,7 @@ Leslie Nielsen, Priscilla Presley, George Kennedy
 In "Die nackte Kanone 2.5" setzt Frank Drebin seine unkonventionellen Methoden fort, um einen gefährlichen Plan zu vereiteln. Der Film bietet eine Mischung aus Slapstick, Wortspielen und schrägen Situationen, die typisch für die Reihe sind. Leslie Nielsen zeigt erneut sein komödiantisches Talent und sorgt für zahlreiche Lacher. Eine gelungene Fortsetzung, die den Charme des Originals bewahrt.  
 
 [Nackte Kanone, die] Die nackte Kanone 33⅓
-\\ARIEL\Mehrteiler\Nackte Kanone, die\Nackte Kanone 1, die.iso
+\\ARIEL\Mehrteiler\Nackte Kanone, die\Nackte Kanone 33.33, die.iso
 https://www.imdb.com/title/tt0110622/  
 1994  
 84  
@@ -4486,7 +4486,7 @@ https://www.imdb.com/title/tt0333780/
 2003  
 95  
 Komödie, Romantik  
-Reese Witherspoon, Dolly Parton, Regina King  
+Reese Witherspoon, Sally Field, Bob Newhart 
 In "Natürlich Blond 2" reist Elle Woods nach Washington, D.C., um ihren Einfluss für eine Tierschutzgesetzgebung zu nutzen. Mit ihrem unerschütterlichen Glauben an das Gute und ihrem einzigartigen Stil versucht sie, die politischen Herausforderungen zu meistern. Der Film kombiniert Humor mit einer wichtigen Botschaft über Umweltbewusstsein und Freundschaft. Elle beweist erneut, dass man auch im Anzug eine starke Präsenz zeigen kann.  
 
 [Natürlich Blond] Natürlich Blond 3 
@@ -4932,7 +4932,7 @@ In "Police Academy 6 - Widerstand zwecklos" müssen die Polizisten gegen einen s
 
 [Police Academy] Police Academy 7 - Mission in Moskau  
 \\ARIEL\Mehrteiler\Police Academy\Police Academy 7.iso
-https://www.imdb.com/title/tt011085/  
+https://www.imdb.com/title/tt0110857/  
 1994  
 87  
 Komödie, Krimi  
@@ -5413,7 +5413,7 @@ https://www.imdb.com/title/tt0103961/
 2007  
 88  
 Komödie, Weihnachten, Familie  
-Til Schweiger, Matthias Schweighöfer, Kiera Knightley  
+Dyan Cannon, Kris Kristofferson, Tony Curtis
 "Schuld war nur der Weihnachtsmann" erzählt die chaotische Geschichte eines Vaters, der an Heiligabend versucht, das perfekte Fest für seine Tochter zu organisieren. Doch alles läuft schief, und er muss sich mit einem unvorhersehbaren Weihnachtsmann herumschlagen. Der Film verbindet humorvolle und herzerwärmende Momente und thematisiert die Bedeutung von Familie und Weihnachten. Mit einem sympathischen Cast bringt er die Zuschauer zum Lachen und Nachdenken.  
 
 Schöne Bescherung  
@@ -5449,7 +5449,7 @@ https://www.imdb.com/title/tt1041829/
 2009  
 108  
 Romantik, Komödie  
-Katherine Heigl, Josh Duhamel, Betty White  
+Sandra Bullock, Ryan Reynolds, Mary Steenburgen 
 "Selbst ist die Braut" erzählt die Geschichte von Margaret, einer erfolgreichen Verlegerin, die wegen ihrer Visa-Probleme einen gefälschten Verlobten braucht. Sie entscheidet sich für den attraktiven Ryan, der widerwillig zustimmt, ihr bei ihrem Plan zu helfen. Während sie gemeinsam nach dem perfekten Hochzeitszubehör suchen, beginnt Margaret, sich in Ryan zu verlieben. Der Film ist eine charmante Komödie über Liebe, Betrug und die Suche nach dem richtigen Partner.  
 
 September Issue, the  
@@ -5735,7 +5735,7 @@ Spurwechsel
 \\ARIEL\Filme\S\Spurwechsel.iso 
 https://www.imdb.com/title/tt0264472/  
 2002  
-98  
+116 
 Drama, Thriller  
 Ben Affleck, Samuel L. Jackson, Kim Staunton
 In Spurwechsel geraten der erfolgreiche Anwalt Gavin Banek (Ben Affleck) und der Versicherungskaufmann Doyle Gipson nach einem Autounfall in Manhattan in eine eskalierende Auseinandersetzung. Der Unfall bringt ihre Leben durcheinander, als Gavin, unter Druck und in Eile, Doyles Bitte um Hilfe ignoriert und ihn im Stich lässt. Daraufhin entspinnt sich ein gefährliches Spiel der Vergeltung zwischen den beiden, bei dem sie einander durch rachsüchtige Aktionen das Leben schwer machen.
@@ -5743,10 +5743,10 @@ In Spurwechsel geraten der erfolgreiche Anwalt Gavin Banek (Ben Affleck) und der
 Staatsanwälte küsst man nicht  
 \\ARIEL\Filme\S\Staatsanwälte küsst man nicht.iso
 https://www.imdb.com/title/tt0091396/  
-2006  
+1986  
 108  
 Komödie, Krimi, Romanze  
-Ricky Gervais, Charlotte Gainsbourg, David Tennant  
+Robert Redford, Debra winger, Daryl Hannah
 In "Staatsanwälte küsst man nicht" wird der unorthodoxe Anwalt Jerry, der mit einer charmanten Staatsanwältin in einen Streit verwickelt ist, in einen skurrilen Rechtsstreit verwickelt. Während der Verhandlungen müssen beide ihre Differenzen überwinden und erkennen, dass sie mehr gemein haben, als sie dachten. Die Mischung aus Humor und Romantik sorgt für unterhaltsame Momente. Der Film zeigt, wie sich zwischen Rivalen unerwartete Beziehungen entwickeln können.
 
 [Star Trek] 2009 - Star Trek  
@@ -6408,7 +6408,7 @@ In "Das tödliche Wespennest" wird eine Gruppe von Menschen in einem abgeschiede
 
 [Mord in Fjällbacka] 5 - Tödliches Klassentreffen
 \\ARIEL\Mehrteiler\Mord in Fjällbacka\5 - Tödliches Klassentreffen.iso
-https://www.imdb.com/title/tt4131072/  
+https://www.imdb.com/title/tt2190252/  
 2018  
 90  
 Krimi, Drama, Thriller  
@@ -6904,11 +6904,11 @@ Gregory Peck, Mary Badham, Phillip Alford
 Wer ist Mr. Cutty  
 \\ARIEL\Filme\W\Wer ist Mr. Cutty.iso
 https://www.imdb.com/title/tt0115580/  
-2006  
-97  
-Drama, Thriller  
-Ernesto Alterio, Javier Gutiérrez, Carlos Leal  
-"Wer ist Mr. Cutty" ist ein fesselnder Thriller, der sich um die geheimnisvolle Figur Mr. Cutty dreht. Ein Ermittler versucht, das Geheimnis um ihn zu lösen und in die dunkle Welt des Verbrechens einzutauchen. Der Film bietet unerwartete Wendungen und eine spannende Handlung, die den Zuschauer in Atem hält. Mit intensiven Darstellungen und einer packenden Erzählweise ist es ein packender Krimi.
+1996  
+114  
+Satire, Komödie
+Whoopy Goldberg, Dianne Wiest, René Gainville
+Die Afroamerikanerin Laurel Ayres lebt in New York und arbeitet in der Finanzbranche. Als ihr Kollege Frank Peterson eine Beförderung erhält, die eigentlich Laurel zusteht, kündigt sie und macht sich selbständig. Als Frau und noch dazu als Schwarze hat sie es schwer, Klienten zu werben, und greift bald zu einer Notlüge: Inspiriert durch eine Flasche der Whiskeymarke Cutty Sark erfindet sie den weißen Robert S. Cutty und behauptet, sie sei in seinem Auftrag unterwegs, und er sei derjenige mit den genialen Ideen. Damit verbucht sie große Erfolge.
 
 West Side Story  
 \\ARIEL\Filme\W\West Side Story.iso
@@ -7179,3 +7179,57 @@ https://www.imdb.com/title/tt0086397/
 Drama, Abenteuer  
 Johanna Wokalek, Maxim Mehmet, Michael Maertens  
 "Die Überlebenskünstler" erzählt die bewegende Geschichte einer Gruppe von Menschen, die in einer abgelegenen Wildnis überleben müssen. Angesichts extremer Bedingungen und persönlicher Konflikte kämpfen sie ums Überleben und um ihre Träume. Der Film thematisiert die Herausforderungen der Natur und die inneren Kämpfe der Charaktere. Mit emotionalen und packenden Szenen wird die Resilienz des menschlichen Geistes eindrucksvoll dargestellt.
+
+[Harry Potter] 1 - Harry Potter und der Stein der Weisen
+\\ARIEL\Mehrteiler\Harry Potter\1 - Harry Potter und der Stein der Weisen.iso
+https://www.imdb.com/title/tt0241527/
+2001  
+152  
+Fantasy, Abenteuer, Familie  
+Daniel Radcliffe, Emma Watson, Rupert Grint  
+Im Mittelpunkt der Geschichte steht Harry Potter, der an seinem elften Geburtstag erfährt, dass er ein Zauberer ist und an die Zaubererschule Hogwarts berufen wird. Während seines ersten Schuljahres lernt der Waisenjunge die wundersame Welt der Magie kennen, durchlebt verschiedene Abenteuer und wird schließlich mit dem dunklen Magier Lord Voldemort konfrontiert.
+
+1. Ritter, der
+\\ARIEL\Filme\1\1. Ritter, der.iso
+https://www.imdb.com/title/tt0113071/
+1995
+134
+Action, Romanze, Abenteuer, Drama
+Sean Connery, Richard Gere, Julia Ormond
+Nachdem Prinz Malagant, ehemals Ritter in König Arthurs Tafelrunde, Camelot im Streit den Rücken gekehrt hat, überzieht er das Land mit Krieg, bis durch eine Aufteilung des Reiches schließlich ein brüchiger Frieden entsteht. Lyonesse, ein kleines Reich im Grenzland, wird durch seine Soldaten immer wieder attackiert, wodurch Lady Guinevere, die Herrin des Reiches, in starke Bedrängnis gerät. Um einen Verbündeten zu gewinnen und ihr Volk besser schützen zu können, aber auch aufgrund ihrer Zuneigung zu ihm, nimmt Guinevere den Heiratsantrag von König Arthur an. Um die Heirat zu vollziehen, macht sich Guinevere, begleitet von einer berittenen Eskorte, auf den Weg nach Camelot, der Residenzstadt König Arthurs.
+
+Book of Eli, the
+\\ARIEL\Filme\B\Book of Eli.iso
+https://www.imdb.com/title/tt1037705/
+2010
+118
+Action
+Denzel Washington, Mila Kunis, Ray Stevenson
+Dreißig Jahre nach dem „Großen Krieg“, der die Erde völlig verwüstet hat und in dessen Folge ein Loch in die Ozonschicht gerissen wurde, ist Eli alleine zu Fuß unterwegs. Dabei zeigt er unheimliche Fähigkeiten beim Jagen und beim Ausschalten einer Räuberbande, die ihm aus einem Hinterhalt auflauert. Sein Ziel ist der Westen der Vereinigten Staaten, mit sich trägt er ein geheimnisvolles Buch.
+
+Bruce Allmächtig
+\\ARIEL\Filme\B\Bruce Allmächtig.iso
+https://www.imdb.com/title/tt0315327/
+2003
+101
+Comedy, Fantasy
+Jim Carrey, Jennifer Aniston, Morgan Freeman
+Bruce Nolan ist ein unzufriedener Fernsehreporter bei einem Lokalsender in Buffalo und berichtet für Channel 7 Eyewitness News von alltäglichen Ereignissen vor Ort. Da der bisherige Anchorman der Haupt-Nachrichtensendung in Ruhestand geht, rechnet Bruce damit, dass er sein Nachfolger wird. Kurz vor einer einmaligen Live-Berichterstattung erfährt er jedoch, dass sein Kollege Evan Baxter den Job erhält. Er rastet während der Übertragung aus und wird daraufhin entlassen. Nach einer Reihe weiterer Tiefschläge macht er Gott dafür verantwortlich, dass sein Leben nicht so läuft, wie er es sich vorstellt. Der jüdisch-christliche Gott tritt mit ihm tatsächlich in Kontakt, indem er ihm eine Telefonnummer auf seinen Pager sendet.
+
+Professor Love
+\\ARIEL\Filme\P\Professor Love (BR).iso
+https://www.imdb.com/title/tt1725986/
+2014
+99
+Satire, Comedy, Romanze
+Pierce Brosnan, Salma Hayek, Jessica Alba
+Literaturprofessor Richard Haig genießt sein Leben als Single und Womanizer. Nachdem sein aktueller Flirt Kate schwanger wird und zurück nach Kalifornien ziehen möchte, entscheidet sich Richard dafür, mit ihr zu gehen und für sein Kind da zu sein. Nach einer Weile verliebt sich Kate in einen neuen Mann und lässt sich scheiden. Zu allem Übel droht Richard die Ausweisung aus den Vereinigten Staaten. In diesem Moment taucht Kates Schwester Olivia auf und stellt Richards Welt auf den Kopf.
+
+Singin' in the Rain
+\\ARIEL\Filme\S\Singin' in the Rain.iso
+https://www.imdb.com/title/tt0045152/
+1952
+103
+Musical, Romanze, Comedy
+Gene Kelly, Donald O'Connor, Debbie Reynolds
+Singin' in the Rain ist eine klassische Hollywood-Musical-Komödie, die in den späten 1920er-Jahren spielt und die Umstellung der Filmindustrie vom Stummfilm zum Tonfilm thematisiert. Die Hauptfiguren sind Don Lockwood, ein erfolgreicher Stummfilmstar, seine arrogante Filmpartnerin Lina Lamont und die talentierte Newcomerin Kathy Selden.
