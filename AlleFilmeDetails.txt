@@ -232,7 +232,7 @@ Thriller, Krimi, Drama
 Clint Eastwood, Gene Hackman, Ed Harris  
 Ein alternder Dieb wird während eines Einbruchs Zeuge, wie ein Machtmissbrauch im Weißen Haus zu einem Mord führt. Er entkommt knapp, doch bald wird er von den Mächtigen des Landes gejagt, die ihre Geheimnisse schützen wollen. Der Film entfaltet eine komplexe Geschichte über Korruption und Gerechtigkeit. Während der Dieb versucht, die Wahrheit ans Licht zu bringen, gerät er in tödliche Gefahr.
 
-The Accountant  
+Accountant, the  
 \\ARIEL\Filme\A\Accountant, the.iso 
 https://www.imdb.com/title/tt2140479/  
 2016  
@@ -376,7 +376,7 @@ Science-Fiction, Thriller
 Arthur Hill, David Wayne, James Olson  
 Ein Satellit, der auf die Erde zurückkehrt, bringt einen tödlichen außerirdischen Organismus mit sich, der fast eine ganze Kleinstadt auslöscht. Eine Gruppe von Wissenschaftlern versucht, in einem geheimen Labor den Ursprung und die Gefahren des Erregers zu analysieren. Während die Zeit drängt, breitet sich die Bedrohung weiter aus, und das Team kämpft um eine Lösung. Der Film stellt die Frage, wie gut die Menschheit auf unvorhersehbare Gefahren aus dem All vorbereitet ist.
 
-[Star Wars:] Episode II – Angriff der Klonkrieger (BR)  
+[Star Wars] II – Angriff der Klonkrieger (BR)  
 \\ARIEL\Mehrteiler\Star Wars (BR)\2 - Angriff der Klonkrieger.iso
 https://www.imdb.com/title/tt0121765/  
 2002  
@@ -385,7 +385,7 @@ Science-Fiction, Abenteuer, Action
 Ewan McGregor, Natalie Portman, Hayden Christensen  
 Zehn Jahre nach den Ereignissen von Episode I spitzt sich der Konflikt zwischen der Republik und den Separatisten zu. Anakin Skywalker und Padmé Amidala kommen sich näher, während Obi-Wan Kenobi die Entdeckung einer Klonarmee macht. Diese Armee soll in einem bevorstehenden Krieg eingesetzt werden, der die gesamte Galaxie bedroht. Der Film zeigt die Entstehung des Konflikts, der in die Klonkriege mündet, und Anakin beginnt seinen Weg zur dunklen Seite.
 
-[Star Wars] Episode II – Angriff der Klonkrieger  
+[Star Wars] II – Angriff der Klonkrieger  
 \\ARIEL\Mehrteiler\Star Wars\2 - Angriff der Klonkrieger.iso
 https://www.imdb.com/title/tt0121765/  
 2002  
@@ -547,7 +547,7 @@ Biografie, Drama
 Leonardo DiCaprio, Cate Blanchett, Kate Beckinsale  
 Der exzentrische Unternehmer und Filmemacher Howard Hughes steigt in den 1920er und 1930er Jahren zu einer der einflussreichsten Persönlichkeiten Hollywoods auf. Doch während sein Reichtum und seine Ambitionen wachsen, wird er zunehmend von psychischen Problemen heimgesucht. Der Film zeigt Hughes' Innovationsgeist, seinen Erfolg in der Luftfahrt und seinen Kampf gegen seine inneren Dämonen. „Aviator“ ist eine visuell eindrucksvolle Biografie, die das Leben eines komplexen Genies beleuchtet.
 
-Der Baader Meinhof Komplex  
+Baader Meinhof Komplex, der  
 \\ARIEL\Filme\B\Baader Meinhof Komplex, Der.iso
 https://www.imdb.com/title/tt0765432/  
 2008  
@@ -745,7 +745,7 @@ Musical, Komödie, Action
 Dan Aykroyd, John Goodman, Jim Belushi  
 In dieser Fortsetzung machen sich Elwood Blues und seine neuen Gefährten auf, um eine große Musikshow zu veranstalten und ihren alten Freund zu finden. Dabei müssen sie sich zahlreichen Herausforderungen und einem kriminellen Gangster stellen. Der Film verbindet klassische Blues-Musik mit komödiantischen Elementen und bringt viele bekannte Gaststars zusammen. Trotz gemischter Kritiken hat er seinen eigenen Charme und Kultstatus.
 
-The Body  
+Body, the  
 \\ARIEL\Filme\B\Body, the (BR).iso
 https://www.imdb.com/title/tt1937149/  
 2012  
@@ -880,7 +880,7 @@ Romantik, Komödie, Drama
 Renée Zellweger, Colin Firth, Patrick Dempsey  
 In der dritten Runde von Bridget Jones' Abenteuern findet sie sich plötzlich im Chaos einer ungewollten Schwangerschaft wieder. Die Geschichte folgt ihrer Reise, während sie versucht, die Vaterschaft des ungeborenen Kindes herauszufinden und ihre Beziehung zu ihrem Ex-Freund und einem neuen Liebhaber zu navigieren. Der Film kombiniert humorvolle und herzerwärmende Momente und bleibt der charmanten Persönlichkeit von Bridget treu. "Bridget Jones' Baby" ist eine erfrischende Fortsetzung, die das Publikum begeistert. 
 
-Die Brücke am Kwai  
+Brücke am Kwai, die  
 \\ARIEL\Filme\B\Brücke am Kwai, die.iso
 https://www.imdb.com/title/tt0050212/  
 1957  
@@ -2068,7 +2068,7 @@ Horror, Thriller, Mystery
 Devon Sawa, Ali Larter, Kerr Smith  
 "Final Destination" erzählt die Geschichte von Alex Browning, der bei einem Flugzeugabsturz eine Vorahnung hat und seine Mitschüler davor warnt. Nachdem sie den Absturz überleben, müssen sie jedoch feststellen, dass der Tod sie dennoch verfolgt. Der Film spielt mit dem Konzept des Schicksals und der Unausweichlichkeit des Todes, was zu einer spannenden und gruseligen Atmosphäre führt. Die cleveren Wendungen und die unheimlichen Tötungsmethoden machen "Final Destination" zu einem Kultklassiker im Horrorgenre.
 
-Die Firma  
+Firma, die  
 \\ARIEL\Filme\F\Firma, die.iso 
 https://www.imdb.com/title/tt0106918/  
 1993  
@@ -2311,7 +2311,7 @@ Action, Abenteuer, Fantasy
 Elijah Wood, Ian McKellen, Orlando Bloom  
 "Die Gefährten" ist der erste Teil der "Herr der Ringe"-Trilogie und erzählt die epische Reise von Frodo Beutlin, der den einen Ring ins gefährliche Mordor bringen muss, um das Böse zu besiegen. Unterstützt von einer bunt gemischten Gruppe von Gefährten stellt er sich zahlreichen Gefahren und muss das Schicksal Mittelerdes in seinen Händen halten. Der Film ist ein Meisterwerk des Fantasy-Genres mit beeindruckenden Spezialeffekten und einer tiefgründigen Erzählung. Mit unvergesslichen Charakteren und epischen Kämpfen bleibt "Die Gefährten" ein zeitloser Klassiker.
 
-Die Geistervilla  
+Geistervilla, die  
 \\ARIEL\Filme\G\Geistervilla, die.iso
 https://www.imdb.com/title/tt0338094/  
 2003  
@@ -2473,7 +2473,7 @@ Drama, Thriller, Mystery
 Ben Affleck, Rosamund Pike, Neil Patrick Harris  
 "Gone Girl" erzählt die Geschichte von Nick Dunne, dessen Frau Amy an ihrem Hochzeitstag verschwindet und ihn zum Hauptverdächtigen macht. Der Film entfaltet sich in einem komplexen Netz von Lügen, Manipulation und Medienhysterie, während Nicks Unschuld in Frage gestellt wird. Rosamund Pike liefert eine beeindruckende Leistung, die den Zuschauer fesselt und schockiert. "Gone Girl" ist eine packende Analyse der Beziehungen und der dunklen Seiten der menschlichen Psyche.
 
-The Good Girl
+Good Girl, the
 \\ARIEL\Filme\G\Good Girl, the.iso 
 https://www.imdb.com/title/tt0279113/  
 2002  
@@ -3508,7 +3508,7 @@ Komödie
 Gerhard Polt, Gisela Schneeberger, Eva Mattes, Dieter Hildebrandt
 Kehraus ist ein satirischer deutscher Spielfilm aus dem Jahr 1983 über die Praktiken der Versicherungen gegenüber ihren Kunden, das Verhalten der Chefs eines solchen Konzerns gegenüber den Mitarbeitern sowie das ausgelassene Treiben im Fasching. Fast alle Szenen stellen in aller Schärfe Schwächen und Niederträchtigkeiten der handelnden Personen dar. 
 
-Der Kindergarten Cop  
+Kindergarten Cop, der  
 \\ARIEL\Filme\K\Kindergarten Cop, der.iso 
 https://www.imdb.com/title/tt0099938/  
 1990  
@@ -3562,7 +3562,7 @@ Komödie, Drama, Ausland
 Bjørn Floberg, Trine Dyrholm, John N. Smith  
 In dieser skandinavischen Komödie beobachtet ein Forscher einen alleinlebenden Koch, um herauszufinden, wie Menschen in der Küche arbeiten. Während er seine Methoden anwendet, entwickelt sich eine unerwartete Beziehung zwischen den beiden Männern. Der Film behandelt Themen wie Einsamkeit und Freundschaft mit einem Hauch von Humor. "Kitchen Stories" ist ein charmantes und nachdenkliches Werk über das Leben in der modernen Welt.  
 
-Der kleine Lord  
+Kleine Lord, der  
 \\ARIEL\Filme\K\Kleine Lord, der.iso
 https://www.imdb.com/title/tt0081062/  
 1980  
@@ -3688,7 +3688,7 @@ Komödie, Familienfilm
 Heinz Rühmann, Peter Alexander, Hannelore Elsner  
 In dieser Komödie folgen wir den Abenteuern eines Lausbuben, der mit seinen Streichen das Leben seiner Mitmenschen auf den Kopf stellt. Die Geschichten spielen in einer ländlichen Umgebung und zeigen die Unbeschwertheit der Kindheit. Der Film ist humorvoll und vermittelt gleichzeitig eine nostalgische Sicht auf die Jugend. "Lausbubengeschichten" ist ein zeitloser Klassiker, der Generationen begeistert.  
 
-Das Leben des Brian  
+Leben des Brian, das  
 \\ARIEL\Filme\L\Leben des Brian, Das.iso 
 https://www.imdb.com/title/tt0079470/  
 1979  
@@ -3823,7 +3823,7 @@ Komödie, Familienfilm
 Hans Clarin, Uschi Glas, Peter Weck  
 In dieser Fortsetzung der "Lausbubengeschichten" erleben die Protagonisten neue lustige Abenteuer in ihrer Jugend. Die Komödie zeigt die Unbeschwertheit und den Charme der Kindheit in einer ländlichen Umgebung. Mit viel Humor und Wärme erzählt der Film von Freundschaft und den kleinen Problemen des Lebens. "Ludwig auf Freiersfüssen" ist ein zeitloser Klassiker, der Jung und Alt anspricht.  
 
-Der Löwe im Winter  
+Löwe im Winter, der  
 \\ARIEL\Filme\L\Löwe im Winter, der.iso
 https://www.imdb.com/title/tt0063227/  
 1968  
@@ -3895,7 +3895,7 @@ Thriller, Drama, Mystery
 Denzel Washington, Liev Schreiber, Meryl Streep  
 In dieser Neuverfilmung des Klassikers wird ein Veteran des Golfkriegs von traumatischen Erinnerungen geplagt. Er entdeckt eine Verschwörung, die ihn und seine Kameraden in einen politischen Komplott verwickelt. Der Film behandelt Themen wie Gehirnwäsche, Macht und Manipulation in der Politik. "Der Manchurian Kandidat" ist ein spannender Thriller, der das Publikum in seinen Bann zieht.  
 
-Der Mandant  
+Mandant, der  
 \\ARIEL\Filme\M\Mandant, der.iso 
 https://www.imdb.com/title/tt1189340/  
 2011  
@@ -3913,7 +3913,7 @@ Action, Abenteuer, Krimi
 Roger Moore, Christopher Lee, Britt Ekland  
 In diesem spannenden James-Bond-Film wird 007 beauftragt, einen Auftragskiller zu finden, der ihn töten will. Der Film bietet aufregende Action und atemberaubende Kulissen in Asien. Während Bond die Machenschaften des goldenen Colts aufdeckt, muss er sich gegen gefährliche Feinde behaupten. "Der Mann mit dem goldenen Colt" kombiniert Spannung und Charme in der klassischen Bond-Tradition.  
 
-Der Marathonmann  
+Marathonmann, der  
 \\ARIEL\Filme\M\Marathon Mann, der.iso
 https://www.imdb.com/title/tt0074860/  
 1976  
@@ -3931,7 +3931,7 @@ Drama, Thriller, Psychodrama
 Tippi Hedren, Sean Connery, Diane Baker  
 "Marnie" erzählt die Geschichte einer Frau mit einem traumatischen Geheimnis, die von einem erfolgreichen Geschäftsmann verfolgt wird. Als er sie heiratet, versucht er, ihre Ängste zu verstehen und zu überwinden, was zu einer tiefen psychologischen Exploration führt. Der Film thematisiert Themen wie Identität, Trauma und die Komplexität menschlicher Beziehungen. "Marnie" ist ein faszinierendes Werk von Alfred Hitchcock, das durch seine emotionale Tiefe besticht.  
 
-Der Marsianer  
+Marsianer, der  
 \\ARIEL\Filme\M\Marsianer, der.iso 
 https://www.imdb.com/title/tt3659388/  
 2015  
@@ -4012,7 +4012,7 @@ Action, Thriller, Krimi
 Jason Statham, Ben Foster, Donald Sutherland  
 "Der Mechaniker" folgt Arthur Bishop, einem professionellen Auftragsmörder, der seine eigenen Prinzipien hat. Nach dem Tod seines Mentors ist er gezwungen, sich mit dem Sohn des Verstorbenen zusammenzutun und ihm das Handwerk beizubringen. Der Film bietet spannende Action und eine fesselnde Handlung über Loyalität und Rache. "Der Mechaniker" ist ein packender Thriller mit beeindruckenden Stunts und einer starken schauspielerischen Leistung von Jason Statham.  
 
-Der Medicus  
+Medicus, der  
 \\ARIEL\Filme\M\Medicus, der.iso
 https://www.imdb.com/title/tt2101473/  
 2013  
@@ -4084,7 +4084,7 @@ Action, Komödie, Sci-Fi
 Will Smith, Tommy Lee Jones, Josh Brolin  
 "Men in Black III" bringt Agent J zurück in die Vergangenheit, um seinen Partner K zu retten und eine Alien-Invasion zu verhindern. J reist ins Jahr 1969 und trifft auf einen jüngeren K, gespielt von Josh Brolin. Der Film bietet nicht nur aufregende Action und humorvolle Momente, sondern auch eine emotionale Geschichte über Freundschaft und Loyalität. "Men in Black III" ist eine gelungene Fortsetzung, die die Fans des Franchise begeistert.  
 
-Das Mercury Puzzle  
+Mercury Puzzle, das  
 \\ARIEL\Filme\M\Mercury Puzzle, das.iso
 https://www.imdb.com/title/tt0120749/  
 1998  
@@ -4453,7 +4453,7 @@ Komödie, Krimi
 Leslie Nielsen, Priscilla Presley, George Kennedy  
 In "Die nackte Kanone 33⅓" muss Frank Drebin einen Terroranschlag auf die Oscar-Verleihung verhindern. Der Film ist voll von skurrilen Witzen und übertriebenen Situationen, die das Publikum zum Lachen bringen. Leslie Nielsen glänzt wieder in seiner Rolle als unbeholfener, aber tapferer Ermittler. Ein weiterer humorvoller Beitrag zur kultigen Filmreihe, der Fans der ersten Filme begeistert.  
 
-Der Name der Rose  
+Name der Rose, der  
 \\ARIEL\Filme\N\Name der Rose, Der.iso
 https://www.imdb.com/title/tt0091605/  
 1986  
@@ -4516,7 +4516,7 @@ Drama, Satire
 Faye Dunaway, William Holden, Peter Finch  
 "Network" ist eine scharfsinnige Satire über das Fernsehen und seine Macht über die Gesellschaft. Der Nachrichtensprecher Howard Beale kündigt live im Fernsehen an, dass er nicht mehr leben will, was zu einer sensationellen Wendewende in seiner Karriere führt. Der Film beleuchtet die ethischen Fragen und die kommerziellen Interessen hinter der Berichterstattung. Mit brillanten Darstellungen und scharfer Gesellschaftskritik ist "Network" ein zeitloser Klassiker.  
 
-Das Netz  
+Netz, das  
 \\ARIEL\Filme\N\Netz, das.iso
 https://www.imdb.com/title/tt0113957/  
 1995  
@@ -4669,7 +4669,7 @@ Thriller, Action, Sci-Fi
 Bradley Cooper, Robert De Niro, Abbie Cornish  
 In "Ohne Limit" erhält der erfolglose Schriftsteller Eddie Morra die Möglichkeit, seine Intelligenz durch eine geheimnisvolle Droge zu steigern. Mit den neuen Fähigkeiten erreicht er schnell großen Erfolg, muss jedoch bald erkennen, dass die Droge gefährliche Nebenwirkungen hat. Während er in die Welt der Reichen und Mächtigen eintaucht, gerät er in einen Wettlauf gegen die Zeit und gegen skrupellose Feinde. Der Film kombiniert Elemente von Thriller und Science-Fiction und bietet spannende Wendungen.  
 
-Das Omen  
+Omen, das  
 \\ARIEL\Filme\O\Omen, Das.iso 
 https://www.imdb.com/title/tt0075005/  
 1976  
@@ -4723,7 +4723,7 @@ Drama, Abenteuer
 Steve McQueen, Dustin Hoffman, Victor Jory  
 "Papillon" basiert auf der wahren Geschichte von Henri Charrière, der fälschlicherweise wegen Mordes verurteilt und in ein berüchtigtes Gefängnis in Französisch-Guayana geschickt wird. Der Film folgt seinem verzweifelten Kampf um Freiheit und seine zahlreichen Fluchtversuche. Steve McQueen und Dustin Hoffman bieten beeindruckende Leistungen in einem Drama über Hoffnung, Freundschaft und Überlebenswillen. Mit seiner eindringlichen Erzählweise und packenden Handlung bleibt "Papillon" ein Meisterwerk des Abenteuerfilms.  
 
-Das Parfum  
+Parfum, das  
 \\ARIEL\Filme\P\Parfum, Das.iso
 https://www.imdb.com/title/tt0396171/  
 2006  
@@ -4822,7 +4822,7 @@ Sci-Fi, Abenteuer, Komödie
 Martin Freeman, Mos Def, Sam Rockwell  
 "Per Anhalter durch die Galaxis" basiert auf dem kultigen Buch von Douglas Adams und erzählt die absurde Reise von Arthur Dent, der gerade noch seinen Planeten vor der Zerstörung retten kann. Zusammen mit einem intergalaktischen Reiseführer macht sich Arthur auf eine chaotische Reise durch das Universum. Der Film kombiniert skurrilen Humor mit cleveren Ideen und bietet ein visuelles Fest voller unvergesslicher Charaktere. Die Geschichte erforscht die Bedeutung des Lebens und der menschlichen Existenz auf eine unterhaltsame und oft absurde Weise.  
 
-Das perfekte Verbrechen  
+Perfekte Verbrechen, das  
 \\ARIEL\Filme\P\Perfekte Verbrechen, Das.iso
 https://www.imdb.com/title/tt0488120/  
 2007  
@@ -5065,7 +5065,7 @@ Thriller, Krimi
 Jean Reno, Benoît Magimel, Camille Natta  
 In "Die purpurnen Flüsse 2 - Die Engel der Apokalypse" kehrt Kommissar Niemans zurück, um einen weiteren mysteriösen Fall zu lösen. Diesmal ist der Schauplatz ein gefährlicher Ort, der mit religiösen und okkulten Symbolen verbunden ist. Der Film erforscht Themen wie Fanatismus und die Dunkelheit der menschlichen Seele. Mit spannenden Wendungen und einer packenden Handlung bleibt die Fortsetzung dem Stil des Originals treu.  
 
-The Quiet Earth  
+Quiet Earth, the  
 \\ARIEL\Filme\Q\Quiet Earth, the.iso
 https://www.imdb.com/title/tt0089869/  
 1985  
@@ -5074,7 +5074,7 @@ Sci-Fi, Drama, Thriller
 Bruno Lawrence, Alison Routledge, Peter Smith  
 "The Quiet Earth" erzählt die Geschichte von einem Mann, der nach einem geheimen Experiment in einer post-apokalyptischen Welt aufwacht. Er findet sich in einer menschenleeren Umgebung wieder und versucht, die Gründe für das Verschwinden der Menschheit herauszufinden. Der Film kombiniert Sci-Fi-Elemente mit tiefgründigen Fragen über Einsamkeit und das menschliche Überleben. Mit seiner melancholischen Stimmung und dem eindringlichen Setting ist es ein eindrucksvoller Film.  
 
-[Star Wars] 3 - Die Rache der Sith  
+[Star Wars] III - Die Rache der Sith  
 \\ARIEL\Mehrteiler\Star Wars\3 - Rache der Sith, die.iso
 https://www.imdb.com/title/tt0121766/  
 2005  
@@ -5137,7 +5137,7 @@ Thriller, Drama, Spionage
 Jennifer Lawrence, Joel Edgerton, Matthias Schoenaerts  
 "Red Sparrow" erzählt die Geschichte von Dominika Egorova, einer ehemaligen Ballerina, die in die Welt der Spionage gezwungen wird. Nach einem schweren Verletzungsfall wird sie zur "Red Sparrow" ausgebildet, einer Agentin, die ihre Körperlichkeit einsetzt, um Informationen zu gewinnen. Der Film entfaltet sich als komplexes Katz-und-Maus-Spiel zwischen Dominika und einem CIA-Agenten. Themen wie Manipulation und Überleben stehen im Mittelpunkt der packenden Handlung.  
 
-Die Reifeprüfung  
+Reifeprüfung, die  
 \\ARIEL\Filme\R\Reifeprüfung, die.iso  
 https://www.imdb.com/title/tt0061722/  
 1967  
@@ -5227,7 +5227,7 @@ Horror, Drama, Mystery
 Mia Farrow, John Cassavetes, Ruth Gordon  
 "Rosemary's Baby" erzählt die Geschichte einer schwangeren Frau, die in einem geheimnisvollen Gebäude lebt und beginnt, an den Motiven ihrer Nachbarn zu zweifeln. Als sie bemerkt, dass ihre Umgebung und ihr Ehemann eine düstere Agenda verfolgen, wird sie in einen Albtraum aus Paranoia und Angst gestürzt. Der Film kombiniert psychologischen Horror mit gesellschaftlichen Themen. Mit intensiven Darstellungen und einer unvergesslichen Atmosphäre ist er ein Klassiker des Horror-Genres.  
 
-Der Rosenkrieg  
+Rosenkrieg, der  
 \\ARIEL\Filme\R\Rosenkrieg, der.iso
 https://www.imdb.com/title/tt0098621/  
 1989  
@@ -5236,7 +5236,7 @@ Komödie, Drama, Romance
 Michael Douglas, Kathleen Turner, Danny DeVito  
 "Der Rosenkrieg" ist eine schwarze Komödie über ein Ehepaar, dessen Scheidung zu einem erbitterten und oft absurd komischen Kampf um Besitz und Macht wird. Die beiden Ex-Partner setzen alles daran, sich gegenseitig zu schädigen und ihre Konkurrenten zu übertreffen. Der Film thematisiert die Abgründe der Beziehungen und den menschlichen Egoismus auf humorvolle Weise. Mit einem starken Cast und cleveren Dialogen ist der Film unterhaltsam und nachdenklich zugleich.  
 
-Das Russland Haus  
+Russland Haus, das  
 \\ARIEL\Filme\R\Russland Haus, Das.iso  
 https://www.imdb.com/title/tt0100530/  
 1990  
@@ -5245,7 +5245,7 @@ Thriller, Drama, Krimi
 Sean Connery, Michelle Pfeiffer, James Fox  
 "Das Russland Haus" erzählt die Geschichte eines britischen Verlegers, der in die turbulente Welt der politischen Intrigen in Russland nach dem Kalten Krieg verwickelt wird. Er erhält geheime Dokumente und muss sich entscheiden, wem er trauen kann. Der Film behandelt Themen wie Loyalität, Macht und die Suche nach Wahrheit in einer sich wandelnden Welt. Mit einer fesselnden Handlung und starken Performances ist es ein packender Thriller.  
 
-[Star Wars] 6 - Die Rückkehr der Jedi-Ritter  
+[Star Wars] VI - Die Rückkehr der Jedi-Ritter  
 \\ARIEL\Mehrteiler\Star Wars\6 - Rückkehr der Jedi-Ritter, die.iso
 https://www.imdb.com/title/tt0086190/  
 1983  
@@ -5344,7 +5344,7 @@ Drama, Biografie, Musik
 Tom Hanks, Emma Thompson, Annie Rose Buckley  
 "Saving Mr. Banks" erzählt die wahre Geschichte von der Entstehung des Disney-Films "Mary Poppins" und dem Kampf zwischen Walt Disney und der Autorin P.L. Travers. Travers ist zunächst skeptisch gegenüber Disneys Vision und muss sich mit ihrer Vergangenheit auseinandersetzen. Der Film verbindet nostalgische Elemente mit humorvollen und dramatischen Momenten. Mit starken Darstellungen und einer fesselnden Handlung bietet er einen faszinierenden Blick hinter die Kulissen eines zeitlosen Klassikers.  
 
-Die Schachspielerin  
+Schachspielerin, die  
 \\ARIEL\Filme\S\Schachspielerin, die.iso
 https://www.imdb.com/title/tt1082009/  
 2009  
@@ -5389,7 +5389,7 @@ Romantik, Komödie
 Renée Zellweger, Hugh Grant, Colin Firth  
 "Schokolade zum Frühstück" erzählt die chaotische Liebesgeschichte von Bridget Jones, einer unglücklichen, übergewichtigen Frau, die versucht, ihre romantischen Probleme zu lösen. Zwischen ihren besten Freunden und den Männern in ihrem Leben steht sie vor der Herausforderung, sich selbst zu akzeptieren. Der Film kombiniert humorvolle und herzerwärmende Momente und vermittelt eine Botschaft über Selbstliebe. Mit einer großartigen Leistung von Renée Zellweger hat er sich als Kultfilm etabliert.  
 
-Der Schuh des Manitu  
+Schuh des Manitu, der  
 \\ARIEL\Filme\S\Schuh des Manitu, Der.iso
 https://www.imdb.com/title/tt0248408/  
 2001  
@@ -5506,7 +5506,7 @@ Drama, Romantik, Komödie
 Claire Danes, Steve Martin, Jason Schwartzman  
 "Shopgirl" folgt der jungen Verkaufsmitarbeiterin Mirabelle, die sich zwischen zwei Männern entscheiden muss. Während sie versucht, in der komplizierten Welt der Liebe ihren Platz zu finden, offenbart der Film die Herausforderungen des modernen Lebens. Die Charaktere sind vielschichtig und zeigen die Höhen und Tiefen von Beziehungen. Mit einer einfühlsamen Erzählweise und einer großartigen Besetzung ist "Shopgirl" eine berührende romantische Komödie.  
 
-The Signal  
+Signal, the  
 \\ARIEL\Filme\S\Signal, the (BR).iso  
 https://www.imdb.com/title/tt2910814/  
 2014  
@@ -5614,7 +5614,7 @@ Sci-Fi, Drama, Mystery
 Donatas Banionis, Natalya Bondarchuk, Yuri Jarvet  
 "Solaris" ist ein Science-Fiction-Film, der auf dem gleichnamigen Roman von Stanisław Lem basiert. Der Psychologe Kris Kelvin wird zu einer Raumstation geschickt, die über einem geheimnisvollen Planeten schwebt, der die Erinnerungen und Gedanken der Crew materialisiert. Im Zuge seiner Erlebnisse wird er mit seiner eigenen Trauer und dem Verlust konfrontiert. Der Film untersucht tiefgründige Themen wie das Bewusstsein, die menschliche Natur und die Unfähigkeit, wirklich zu kommunizieren.  
 
-The Sound of Music  
+Sound of Music, the  
 \\ARIEL\Filme\S\Sound of Music, the.iso
 https://www.imdb.com/title/tt0059742/  
 1965  
@@ -5812,7 +5812,7 @@ Komödie, Drama, Romantik
 Andreas Schmidt, Anna Bederke, Axel Stein  
 In "Sterben für Anfänger" wird das Leben des unglücklichen Protagonisten auf den Kopf gestellt, als er beschließt, sein Leben radikal zu ändern. Durch verschiedene skurrile Erlebnisse und Begegnungen findet er heraus, was wirklich zählt im Leben. Der Film vereint Humor mit tiefgründigen Momenten und zeigt, wie wichtig es ist, das Leben in vollen Zügen zu leben. Eine erfrischende Perspektive auf die Herausforderungen des Alltags und die Suche nach Glück.
 
-Der Sternwanderer  
+Sternwanderer, der  
 \\ARIEL\Filme\S\Sternwanderer, der.iso
 https://www.imdb.com/title/tt0486655/  
 2007  
@@ -5884,7 +5884,7 @@ Drama, Horror, Thriller
 Colm Feore, Kathy Bates, Nicole de Boer  
 In "Sturm des Jahrhunderts" wird eine kleine Stadt von einem verheerenden Blizzard heimgesucht, während ein mysteriöser Fremder auftaucht. Die Bewohner müssen sich nicht nur gegen die Naturgewalten wehren, sondern auch gegen die dunklen Mächte, die der Fremde mit sich bringt. Der Film basiert auf einer Geschichte von Stephen King und bietet eine fesselnde Mischung aus Spannung und psychologischem Horror. Die Charaktere und ihre Konflikte stehen im Mittelpunkt, während die Geschichte sich entfaltet.
 
-Der Sturm  
+Sturm, der  
 Sturm, der (Andrea Gail).iso  
 \\ARIEL\Filme\S\Sturm, der (Andrea Gail).iso
 2000  
@@ -5893,7 +5893,7 @@ Drama, Thriller, Abenteuer
 George Clooney, Mark Wahlberg, John C. Reilly  
 "Der Sturm" erzählt die packende Geschichte des Fischerboots Andrea Gail, das während eines gewaltigen Sturms in den Gewässern vor Nova Scotia in Seenot gerät. Die Besatzung muss gegen die gewaltigen Naturgewalten ankämpfen und versucht, unbeschadet zurückzukehren. Basierend auf einer wahren Begebenheit fängt der Film die Intensität und den Mut der Fischer ein. Die beeindruckenden Spezialeffekte und die Charakterentwicklung machen ihn zu einem fesselnden Erlebnis.
 
-Das Superhirn  
+Superhirn, das  
 \\ARIEL\Filme\S\Superhirn, das.iso
 https://www.imdb.com/title/tt0064146/  
 2005  
@@ -6082,7 +6082,7 @@ Drama, Thriller, Politthriller
 Julius Weckauf, Lars Eidinger, Alexandra Maria Lara  
 "Terror - Ihre Entscheidung" ist ein fiktives Gerichtsdrama, das sich mit einem Luftangriff auf ein Flugzeug beschäftigt, bei dem eine Geiselnahme stattfindet. Der Zuschauer wird in einen ethischen Konflikt verwickelt, in dem die Moral von Leben und Tod auf dem Spiel steht. Die Handlung wird durch verschiedene Perspektiven der Charaktere erzählt, was zu einer spannenden und nachdenklichen Erzählweise führt. Der Film regt zum Nachdenken über die komplexen Themen von Recht und Gerechtigkeit an.
 
-Der Teufel trägt Prada  
+Teufel trägt Prada, der  
 \\ARIEL\Filme\T\Teufel trägt Prada, der.iso
 https://www.imdb.com/title/tt0458352/  
 2006  
@@ -6091,7 +6091,7 @@ Komödie, Drama, Romantik
 Meryl Streep, Anne Hathaway, Emily Blunt  
 In "Der Teufel trägt Prada" wird die junge Journalistin Andrea Sachs als Assistentin der gefürchteten Modechefin Miranda Priestly eingestellt. Trotz der Herausforderungen und Anforderungen, die mit dem Job verbunden sind, entdeckt Andrea die aufregende, aber auch herausfordernde Welt der Mode. Der Film thematisiert die Balance zwischen beruflichem Erfolg und persönlicher Identität. Mit großartigen schauspielerischen Leistungen und einem scharfen Blick auf die Modeindustrie ist er eine unterhaltsame Satire.
 
-Die Teufelin  
+Teufelin, die  
 \\ARIEL\Filme\T\Teufelin, die.iso 
 https://www.imdb.com/title/tt0098309/  
 2006  
@@ -6199,7 +6199,7 @@ Krimi, Drama, Mystery
 Peter Ustinov, Bette Davis, Mia Farrow  
 "Tod auf dem Nil" basiert auf dem gleichnamigen Roman von Agatha Christie und folgt dem berühmten Detektiv Hercule Poirot, der während einer Luxuskreuzfahrt auf dem Nil einen Mord aufklären muss. Die Handlung entfaltet sich in einem faszinierenden Setting, während Poirot die verschiedenen Verdächtigen befragt. Mit einer starken Besetzung und einer raffinierten Handlung ist der Film ein Genuss für Krimifans. Die Kombination aus Spannung und exzellentem Schauspiel macht "Tod auf dem Nil" zu einem zeitlosen Klassiker.
 
-Der Tod steht ihr gut  
+Tod steht ihr gut, der  
 \\ARIEL\Filme\T\Tod steht ihr gut, der.iso 
 https://www.imdb.com/title/tt0104070/  
 1992  
@@ -6316,7 +6316,7 @@ Drama, Science Fiction, Thriller
 Johnny Depp, Rebecca Hall, Morgan Freeman  
 In "Transcendence" wird ein führender KI-Forscher von einem radikalen Gruppierung ermordet, bevor er sein Bewusstsein in eine künstliche Intelligenz hochladen kann. Seine Frau und sein Partner setzen alles daran, die Technologie zu vervollständigen, was unerwartete Konsequenzen nach sich zieht. Der Film behandelt Themen wie Technologie, Ethik und die Grenzen des menschlichen Verstandes. Mit einer spannenden Handlung und tiefgründigen Fragen regt "Transcendence" zum Nachdenken über die Zukunft der Menschheit an.
 
-Der Transporter  
+Transporter, der  
 \\ARIEL\Filme\T\Transporter, The.iso
 https://www.imdb.com/title/tt0293662/  
 2002  
@@ -6352,7 +6352,7 @@ Action, Komödie, Thriller
 Arnold Schwarzenegger, Jamie Lee Curtis, Tom Arnold  
 "True Lies" erzählt die Geschichte von Harry Tasker, einem Geheimagenten, der versucht, sein doppeltes Leben vor seiner Frau geheim zu halten. Als sie in seine Welt der Spionage verwickelt wird, muss Harry seine beiden Leben in Einklang bringen und seine Familie retten. Der Film kombiniert Action mit humorvollen Momenten und bietet spannende Verfolgungsjagden und Kämpfe. Mit Arnold Schwarzenegger in der Hauptrolle ist es ein unterhaltsamer Blockbuster.
 
-Die Truman Show  
+Truman Show, die  
 \\ARIEL\Filme\T\Truman Show, Die.iso
 https://www.imdb.com/title/tt0120382/  
 1998  
@@ -6451,7 +6451,7 @@ Komödie, Romantik
 Drew Barrymore, Michael Vartan, David Arquette  
 "Ungeküsst" handelt von der unerfahrenen Journalistin Josie, die undercover in ihre alte Highschool zurückkehrt, um zu recherchieren. Während sie sich mit den Herausforderungen der Jugend auseinandersetzt, beginnt sie, ihre eigene Unsicherheit zu überwinden. Josies unkonventioneller Weg zur Selbstakzeptanz führt sie zu einer unerwarteten Romanze mit ihrem Lehrer. Der Film ist eine charmante Komödie über Selbstfindung und die Bedeutung von authentischen Beziehungen.
 
-Der unglaubliche Hulk  
+Unglaubliche Hulk, der  
 \\ARIEL\Filme\U\Unglaubliche Hulk, der.iso
 https://www.imdb.com/title/tt0800080/  
 2008  
@@ -6460,7 +6460,7 @@ Action, Abenteuer, Sci-Fi
 Edward Norton, Liv Tyler, Tim Roth  
 "Der unglaubliche Hulk" erzählt die Geschichte von Bruce Banner, einem Wissenschaftler, der durch ein missratener Experiment in das Monster Hulk verwandelt wird. Auf der Flucht vor der Militärregierung versucht Banner, ein Heilmittel zu finden, während er gleichzeitig gegen den gefährlichen Emil Blonsky kämpft. Der Film kombiniert intensive Action mit einem emotionalen Kern, der Banners innere Kämpfe und seinen Drang nach Normalität beleuchtet. Mit packenden Special Effects ist es ein fesselnder Teil des Marvel Cinematic Universe.
 
-Die unglaubliche Reise in einem verrückten Flugzeug  
+Unglaubliche Reise in einem verrückten Flugzeug, die  
 \\ARIEL\Filme\U\Unglaubliche Reise in einem verrückten Flugzeug, die.iso
 https://www.imdb.com/title/tt0080339/  
 1980  
@@ -6469,7 +6469,7 @@ Komödie, Parodie, Abenteuer
 Robert Hays, Julie Hagerty, Leslie Nielsen  
 "Die unglaubliche Reise in einem verrückten Flugzeug" ist eine satirische Komödie über die Katastrophe eines Flugzeugs und die absurd komischen Ereignisse, die sich während des Flugs entfalten. Der Ex-Pilot Ted Striker muss seine Ängste überwinden, um das Flugzeug zu retten, nachdem die gesamte Besatzung wegen einer Lebensmittelvergiftung ausfällt. Der Film parodiert das Genre der Katastrophenfilme und bietet eine Vielzahl von slapstickhaften und urkomischen Momenten. Mit seinem skurrilen Humor ist er ein Kultklassiker der 80er Jahre.
 
-Die unheimliche Begegnung der dritten Art  
+Unheimliche Begegnung der dritten Art, die  
 \\ARIEL\Filme\U\Unheimliche Begegnung der dritten Art.iso
 https://www.imdb.com/title/tt0075860/  
 1977  
@@ -6496,7 +6496,7 @@ Komödie, Familienfilm
 Jochen Busse, Peter Alexander, Uschi Glas  
 "Unsere Pauker gehen in die Luft" handelt von einer Gruppe von Lehrern, die an einer Schulreise nach Italien teilnehmen. Während ihrer Reise erleben sie zahlreiche komische Missgeschicke und Abenteuer. Der Film kombiniert humorvolle Situationen mit herzerwärmenden Momenten und zeigt die Dynamik zwischen Lehrern und Schülern. Mit einem unterhaltsamen Ensemble ist es ein leichter Familienfilm für Groß und Klein.
 
-Der unsichtbare Dritte  
+Unsichtbare Dritte, der  
 \\ARIEL\Filme\U\Unsichtbare Dritte, der.iso
 https://www.imdb.com/title/tt0053125/  
 1959  
@@ -6586,7 +6586,7 @@ Krimi, Drama, Thriller
 Daniel Craig, Rooney Mara, Stellan Skarsgård  
 "Verdammnis" ist die Fortsetzung von "Verblendung" und vertieft die Geschichte um Lisbeth Salander und Mikael Blomkvist. In einem neuen Fall kämpfen sie gegen korrupte Kräfte, die sie zum Schweigen bringen wollen. Der Film kombiniert fesselnde Thriller-Elemente mit einer tiefen Charakterstudie und sozialen Kommentaren. Die spannungsgeladene Handlung und die dichte Atmosphäre machen ihn zu einem packenden Erlebnis.
 
-Die Verführung einer Fremden  
+Verführung einer Fremden, die  
 \\ARIEL\Filme\V\Verführung einer Fremden.iso 
 https://www.imdb.com/title/tt0457433/  
 2002  
@@ -6694,7 +6694,7 @@ Komödie, Romanze, Drama
 Alexis Denisof, Amy Acker, Nathan Fillion  
 "Viel Lärm um Nichts" ist eine Adaption von William Shakespeares gleichnamiger Komödie. Der Film spielt in der heutigen Zeit und folgt der Geschichte von Beatrice und Benedikt, die sich in einem Spiel von Liebe und Intrigen wiederfinden. Währenddessen plant Don Pedro, eine Hochzeit zwischen Claudio und Hero. Der Film ist eine amüsante Betrachtung von Missverständnissen und der Suche nach wahrer Liebe.
 
-Vier Hochzeiten und ein Todesfall  
+4 Hochzeiten und 1 Todesfall  
 \\ARIEL\Filme\V\Vier Hochzeiten und ein Todesfall.iso
 https://www.imdb.com/title/tt0109831/  
 1994  
@@ -7045,7 +7045,7 @@ Romantik, Fantasy
 Jared Padalecki, Sophia Bush, David Lipper  
 "Zauber der Liebe" erzählt die romantische Geschichte von einem jungen Mann, der in eine magische Welt eintaucht. Er muss die Kraft der wahren Liebe entdecken, um seine Beziehung zu retten und Herausforderungen zu meistern. Der Film kombiniert Elemente von Fantasy und Romantik und bietet eine herzerwärmende Geschichte über die Kraft der Liebe. Mit seiner charmanten Handlung zieht er das Publikum in seinen Bann.
 
-Der Zauberer von Oz  
+Zauberer von Oz, der  
 \\ARIEL\Filme\Z\Zauberer von Oz, der.iso
 https://www.imdb.com/title/tt0016544/  
 1939  
@@ -7054,7 +7054,7 @@ Musical, Abenteuer, Fantasy
 Judy Garland, Frank Morgan, Ray Bolger  
 "Der Zauberer von Oz" erzählt die Geschichte von Dorothy, einem Mädchen, das durch einen Wirbelsturm in das magische Land Oz transportiert wird. Auf ihrer Reise trifft sie den Feigen Löwen, den Blechmann und den Vogelscheuche, die alle auf der Suche nach etwas sind. Gemeinsam versuchen sie, den Zauberer von Oz zu finden, der ihnen helfen soll, ihre Wünsche zu erfüllen. Der Film ist ein zeitloses Meisterwerk, das mit Musik und Farben begeistert.
 
-The Zero Theorem  
+Zero Theorem, the  
 \\ARIEL\Filme\Z\Zero Theorem, The.iso
 https://www.imdb.com/title/tt2333804/  
 2013  
